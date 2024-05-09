@@ -1,2 +1,2 @@
 # paint-app-c-plus-plus
-This paint app lets users draw shapes with keyboard and mouse. Each shape is tied to a key press for easy switching. It's an intro to interactive graphics programming, showcasing integration of keyboard and mouse inputs for a functional drawing experience.
+This project, leveraging the OpenCV library, enables users to draw shapes with keyboard and mouse interactions. Each shape corresponds to a key press, facilitating easy mode switching. Capturing keyboard and mouse inputs, users can draw lines, rectangles, circles, freehand lines, and arrow lines on the canvas. It's an introduction to interactive graphics programming, showcasing integration of inputs for a functional drawing experience.
